@@ -6,18 +6,9 @@ Playing with Vue.js and figured doing a simple chat app by connecting it with Fi
 
 ## Build Setup
 
-``` bash
-# install dependencies
-npm install
+Removed the requirement to build using npm.  
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+*TODO* - Add Firebase setup steps
 
 ## Credits
 
